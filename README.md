@@ -39,7 +39,7 @@ https://atcoder.jp/contests/abc350 の準備を行う
 
 ``` shell
 cd ./atcoder
-acc n abc353
+acc new abc350
 ```
 
 ブラウザでコンテストページを開く
